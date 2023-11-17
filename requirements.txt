@@ -1,0 +1,6 @@
+pip3 install python-nmap
+pip install pyPdf python-nmap pygeoip mechanize BeautifulSoup4
+sudo apt-get update
+sudo apt-get install libbluetooth-dev
+pip install pybluez==0.22
+pip install pyobex PyBluez==0.22
